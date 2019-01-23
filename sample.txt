@@ -1,2 +1,3 @@
 JMA Musngi
 Hello World
+Today well talk about git
